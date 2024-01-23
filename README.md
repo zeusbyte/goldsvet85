@@ -105,6 +105,7 @@
     artisan event:clear &amp;&amp; php artisan route:clear</code>
 
 <h2>Have a Problem or Question?</h2>
+If you have difficulty for setup/installation consider installation services from my telegram.
 
 <p dir="auto"><a href="https://t.me/TWFtYWggYWt1IHRha3V0IPCfpK" rel="nofollow">Telegram</a></p>
 <p dir="auto"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Group</a></p>
