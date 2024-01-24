@@ -114,7 +114,6 @@
 <p dir="auto"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Group</a></p>
 <p>Discord : @x.111x</p>
 <p dir="auto">&nbsp;</p>
-
 ## Support the Project
 
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
