@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><a href="https://casinoplay.win" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
-<p align="center"><strong>WARNING</strong></a></p>
+<p align="center"><strong>⚠️WARNING⚠️</strong></a></p>
 <p align="center"><a href="https://github.com/zeusbyte/goldsvet" title=">>> NEW UPDATE HERE <<<<"><strong>>> NEW UPDATE HERE <<</strong></a></p>
 
 <ul>
