@@ -3,7 +3,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet85/main/slot.png" alt="Alt Text" width="50%">
 </p>
+
 <p align="center"><a href="https://casinoplay.win" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
+<p align="center"><strong>⚠️WARNING⚠️</strong></a></p>
+<p align="center"><a href="https://github.com/zeusbyte/goldsvet" title=">>> NEW UPDATE HERE <<<<"><strong>>> NEW UPDATE HERE <<</strong></a></p>
 
 <ul>
     <li>Set up your server with the following components:
@@ -111,3 +114,17 @@
 <p dir="auto"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Group</a></p>
 <p>Discord : @x.111x</p>
 <p dir="auto">&nbsp;</p>
+
+## Support the Project
+
+If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
+
+- **Bitcoin (BTC):**
+  - Wallet Address: 18m7QMr7zU6PV9jmPVB1bbb5nE5CbSpjQA
+
+- **Ethereum (ETH):**
+  - Wallet Address: 0x5fc161aDa8211982206C7A8ac83140001E9329c9
+
+- **USDT (Tron network):**
+  - Wallet Address: TEyxHVmRwjThiNcMJivLjspEeFwW8dunZo
+
