@@ -1,6 +1,7 @@
 <h1>Warning this version are not updated anymore... please switch to new version</h1>
-<h2>Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
 <p align="center"><a href="https://github.com/zeusbyte/goldsvet" title=">>> NEW UPDATE HERE <<<<"><strong>>> NEW UPDATE HERE <<</strong></a></p>
+<h2>Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
+
     
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet85/main/slot.png" alt="Alt Text" width="50%">
